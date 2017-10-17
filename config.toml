@@ -1,3 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "http://julson.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Julson Lim"
+theme = "black-and-light"
+author = "Julson Lim"
+
+[params]
+  sitename = "Julson Lim"
